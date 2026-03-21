@@ -86,4 +86,3 @@ Client
 - [ ] Summarization agent — full paper summarization
 - [ ] Swap local embeddings for hosted provider (Google Gemini embedding API)
 - [ ] Multi-paper search and cross-paper reasoning
-- [ ] Structured metadata extraction (authors, abstract, citations)
